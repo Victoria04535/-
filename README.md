@@ -19,6 +19,7 @@
 
 ## 2. Структура проекта
 
+```
 pos/
 ├── go.mod
 ├── README.md
@@ -50,6 +51,7 @@ pos/
    └── adapter/
        └── console/
            └── console.go
+```
 
 ## 3. Архитектура
 
